@@ -2,6 +2,6 @@
 A collection of **very ugly** widgets.
 
 ### The List
-- [EST](WidgetCollection/EST.coffee)
-- [PST](WidgetCollection/PST.coffee)
-- [UTC](WidgetCollection/UTC.coffee)
+- [EST](EST.coffee)
+- [PST](PST.coffee)
+- [UTC](UTC.coffee)

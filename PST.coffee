@@ -1,4 +1,4 @@
-command: "TZ=America/Los_Angeles date +'%T'"
+command: "TZ=America/PST8PDT date +'%T'"
 render: (output) -> """
   <h1>PST: #{output}</h1>
   """

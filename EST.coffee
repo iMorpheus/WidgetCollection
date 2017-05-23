@@ -1,4 +1,4 @@
-command: "TZ=America/New_York date +'%T'"
+command: "TZ=America/EST5EDT date +'%T'"
 render: (output) -> """
   <h1>EST: #{output}</h1>
   """

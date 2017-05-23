@@ -6,7 +6,7 @@ A collection of **very ugly** widgets.
 - [PST](PST.coffee)
 - [UTC](UTC.coffee)
 
-### Discovery
+### Info
 - Stumbled across /usr/share/zoneinfo <---- TimeZone Info directory. Directory contains all your TZ information.
 
 ### Request
